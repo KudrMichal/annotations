@@ -1,0 +1,17 @@
+{
+  "name": "kudrmichal/annotations",
+  "description": "Library for annotation reading",
+  "authors": [
+    {
+      "name": "Michal Kudr",
+      "email": "kudrmichal@sgmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "nette/tester": "~1.0"
+  },
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
